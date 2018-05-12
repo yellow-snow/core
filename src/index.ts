@@ -1,1 +1,2 @@
-console.log("Hello world");
+export { Controller } from "./controller";
+export { Route } from "./route";
