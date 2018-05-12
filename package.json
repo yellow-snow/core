@@ -1,6 +1,7 @@
 {
   "name": "@yellow-snow/core",
   "version": "0.0.0",
+  "private": false,
   "description": "",
   "main": "./lib/index",
   "types": "./lib/index",
