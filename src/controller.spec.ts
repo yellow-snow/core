@@ -15,6 +15,7 @@ describe("Controller", () => {
             ctrl = new TestController();
         });
         it("should instantiate", () => {
+            // tslint:disable-next-line:no-unused-expression
             expect(ctrl).not.to.be.undefined;
         });
     });
