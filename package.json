@@ -17,6 +17,9 @@
   },
   "author": "John A. Fedoruk <johnny@johnfedoruk.ca> (http://johnfedoruk.ca)",
   "license": "mit-licence",
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "body-parser": "^1.18.2",
     "cors": "^2.8.4",
